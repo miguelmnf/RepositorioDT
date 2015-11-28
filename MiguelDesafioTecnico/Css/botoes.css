@@ -1,0 +1,19 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/*ESCODENDO OS BOTOES DE FILTRO*/
+/*--------------------------------------------------------------------*/
+#Botoes{
+display:none;
+}
+#Atualizar{
+display:none;
+}
+#Atual{
+display:none;
+}
+#Salvar{
+display:none;
+}
+#Mensagem{
+display:none;
+}
